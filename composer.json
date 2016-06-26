@@ -1,0 +1,11 @@
+{
+    "name": "root/pruebas",
+    "description": "Using composer without any framework",
+    "authors": [
+        {
+            "name": "Gustavo Castillo",
+            "email": "gustavocastillo1993@hotmail.com"
+        }
+    ],
+    "require": {}
+}
